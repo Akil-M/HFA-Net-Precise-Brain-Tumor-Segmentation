@@ -3,13 +3,9 @@
 **🧩 Authors**
 
 Akil M, Dilip R, Elango V, Nishanth M
-
 Department of Artificial Intelligence and Data Science
-
 Karpagam Academy of Higher Education, Coimbatore, India
-
 Supervisor: Dr. B. Arun Kumar, Hod, Department of AI & DS
-
 📧 akilmasiv@gmail.com
 
 
